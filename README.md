@@ -6,7 +6,8 @@ RM:98730 - Weverton Luis
 Tela Inicial
 
 
-![image](https://github.com/user-attachments/assets/91502d11-cea9-4d82-ac7d-4ec43e3110ef)
+![image](https://github.com/user-attachments/assets/22802579-9055-4f29-8e25-c6ad9f52bff7)
+
 
 Tela de Seleção de Data da Ocorrencia:
 
